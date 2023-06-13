@@ -1,0 +1,10 @@
+* trivial-ssh
+
+An SSH client library for Common Lisp (Built on libssh2)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/trivial-ssh.git   |
+| commit  | b0e85a4  |
+| systems | trivial-ssh |
+|---------+-------------------------------------------|
+
